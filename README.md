@@ -10,12 +10,12 @@ Hemos sido designados como parte del equipo de ciencia de datos en una consultor
 ## Contenido del Proyecto
 El proyecto está organizado en tres etapas principales, cada una abordada en un notebook específico.
 
-1. ETL (Extract, Transform, Load)
-Nombre del Notebook: Proyecto_Integrador_ETL.ipynb
+1. ETL (Extract, Transform, Load)<br>
+Nombre del Notebook: Proyecto_Integrador_ETL.ipynb<br>
 Descripción: Este notebook aborda el proceso de extracción, transformación y carga de datos. Incluye la preparación de los datos relacionados con Antecedentes del paciente, Morbilidad asociada al paciente, Antecedentes relacionados con la toma de la biopsia y Complicaciones infecciosas.
-2. EDA (Análisis Exploratorio de Datos)
-Nombre del Notebook: Proyecto_Integrador_EDA.ipynb
+2. EDA (Análisis Exploratorio de Datos)<br>
+Nombre del Notebook: Proyecto_Integrador_EDA.ipynb<br>
 Descripción: Aquí, realizamos un Análisis Exploratorio de Datos para comprender la distribución, las relaciones y las características clave de los datos. Exploramos visualmente las variables y buscamos patrones que puedan informar nuestro modelo posterior.En este notebook tambien realizamos la codificacion de las variables elegidas para que posteriormente podamos implementar el modelo de Machine Learning
-3. Modelo de Machine Learning
-Nombre del Notebook: Proyecto_Integrador_3_Modelamiento.ipynb
+3. Modelo de Machine Learning<br>
+Nombre del Notebook: Proyecto_Integrador_3_Modelamiento.ipynb<br>
 Descripción: En este notebook, implementamos un modelo de Machine Learning para prever la hospitalización de pacientes después de una biopsia prostática. Utilizamos las variables seleccionadas durante el EDA para entrenar y evaluar el modelo.
